@@ -24,7 +24,7 @@
 
 ## Description
 
-Task management backend created with [NestJs](https://github.com/nestjs/nest).
+Task management backend created with [NestJs](https://github.com/nestjs/nest) implementing a REST API with PostgreSQL utilizing TypeORM.
 
 ## Installation
 
